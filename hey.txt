@@ -1,15 +1,12 @@
+
 commit 4
 
-
 commit 5
-
-check out master
-
 
 
 commit 5
 commit 6
 
 
-on feature branch
 
+merge 2 
