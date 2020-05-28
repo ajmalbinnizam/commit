@@ -1,7 +1,15 @@
 commit 4
+<<<<<<< HEAD
 
 commit 5
 
 check out master
 
 chekout feature
+=======
+commit 5
+commit 6
+
+
+on feature branch
+>>>>>>> feature
