@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T10:39:25.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bOT-IhqbT9WJQb9kKNnh" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T09:25:49.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rH2Of8J2jv-r9cqQ3Ul-" version="20.8.23" type="github">
   <diagram name="Page-1" id="QjNCluHw2bATl8dojZEt">
-    <mxGraphModel dx="1222" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xdVd4ikQqdaPmy-Qgpou-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#10151C;fontSize=11;entryX=0.501;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xdVd4ikQqdaPmy-Qgpou-5" target="bWIa-wmewCggZCcIZ1tf-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="580" as="sourcePoint" />
+            <mxPoint x="474" y="486" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xdVd4ikQqdaPmy-Qgpou-4" value="Display Adverstising" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cube;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="120" y="330" width="50" height="50" as="geometry" />
         </mxCell>
@@ -37,12 +43,6 @@
         </mxCell>
         <mxCell id="xdVd4ikQqdaPmy-Qgpou-24" value="Local Machine" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png;fontSize=11;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="254.44" y="208" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="xdVd4ikQqdaPmy-Qgpou-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#10151C;fontSize=11;entryX=0.501;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xdVd4ikQqdaPmy-Qgpou-5" target="bWIa-wmewCggZCcIZ1tf-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="580" as="sourcePoint" />
-            <mxPoint x="474" y="486" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="MgFYhwnqwTRrfoZ0O5B0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=12;" parent="1" source="xdVd4ikQqdaPmy-Qgpou-25" target="xdVd4ikQqdaPmy-Qgpou-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -132,13 +132,13 @@
             <mxPoint x="550" y="449.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tqMdMu8TJevTn_CxRsFG-10" value="" style="endArrow=none;html=1;rounded=1;dashed=1;fillColor=#cce5ff;strokeColor=#561f1f;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="tqMdMu8TJevTn_CxRsFG-10" value="" style="endArrow=none;html=1;rounded=1;dashed=1;fillColor=#cce5ff;strokeColor=#F9311A;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="670" as="sourcePoint" />
             <mxPoint x="760" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tqMdMu8TJevTn_CxRsFG-11" value="" style="endArrow=none;html=1;rounded=1;dashed=1;fillColor=#cce5ff;strokeColor=#e22828;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="tqMdMu8TJevTn_CxRsFG-11" value="" style="endArrow=none;html=1;rounded=1;dashed=1;fillColor=#cce5ff;strokeColor=#F9311A;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="201" y="670" as="sourcePoint" />
             <mxPoint x="201.11109415690103" y="300" as="targetPoint" />
@@ -168,30 +168,23 @@
         <mxCell id="tqMdMu8TJevTn_CxRsFG-16" value="Data from Cubes is extracted using SSIS pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="221.29" y="503.67" width="108.71" height="46.33" as="geometry" />
         </mxCell>
-        <mxCell id="tqMdMu8TJevTn_CxRsFG-17" value="Data is cleaned, processed and loaded to the Azure SQL warehouse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="388" y="503.67" width="185" height="46.33" as="geometry" />
-        </mxCell>
         <mxCell id="tqMdMu8TJevTn_CxRsFG-15" value="MSFT Sourcing team sends data&lt;br&gt;in the form of&amp;nbsp; Analytics service cubes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="32.5" y="558" width="225" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="tqMdMu8TJevTn_CxRsFG-19" value="ML based forecasting models are built on Azure databricks and the results of the models are again stored in the DW" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="510" y="571.67" width="210" height="58.33" as="geometry" />
+        <mxCell id="tqMdMu8TJevTn_CxRsFG-19" value="ML based forecasting models are built on Azure databricks and the results of the models are again stored in the DW" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="510" y="559.67" width="210" height="58.33" as="geometry" />
         </mxCell>
-        <mxCell id="tqMdMu8TJevTn_CxRsFG-20" value="Reports and dashboards of the forecasted outputs are created for consumption using PBI" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="606.7" y="499.67" width="140" height="58.33" as="geometry" />
+        <mxCell id="tqMdMu8TJevTn_CxRsFG-20" value="Using Power BI, &lt;br style=&quot;font-size: 10px;&quot;&gt;Reports and dashboards of forecasted outputs are created for consumption." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="600" y="497.67" width="140" height="58.33" as="geometry" />
         </mxCell>
-        <mxCell id="tqMdMu8TJevTn_CxRsFG-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitX=1.037;exitY=0.629;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bWIa-wmewCggZCcIZ1tf-31" edge="1">
+        <mxCell id="tqMdMu8TJevTn_CxRsFG-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;entryX=0.028;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="bWIa-wmewCggZCcIZ1tf-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="383" as="sourcePoint" />
+            <mxPoint x="172" y="445" as="sourcePoint" />
             <mxPoint x="250" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="450" />
-              <mxPoint x="250" y="450" />
+              <mxPoint x="220" y="445" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tqMdMu8TJevTn_CxRsFG-23" value="DisplayBiSource" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/databases/SQL_Database.svg;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="160" y="205.33" width="37" height="49.34" as="geometry" />
         </mxCell>
         <mxCell id="tqMdMu8TJevTn_CxRsFG-24" value="The daily transactional data is stored in the cosmos vc" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="320" y="120" width="148.3" height="58.33" as="geometry" />
@@ -207,6 +200,9 @@
         </mxCell>
         <mxCell id="tqMdMu8TJevTn_CxRsFG-26" value="data is extracted as excel file to one drive" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="317" y="214" width="108" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMdMu8TJevTn_CxRsFG-17" value="Data is cleaned, processed and loaded to the Azure SQL warehouse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="388" y="503.67" width="185" height="46.33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
