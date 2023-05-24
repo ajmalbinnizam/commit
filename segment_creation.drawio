@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T08:55:21.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="BjunTOMxU9pDV2ZQkRis" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T16:07:24.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="rzy4LG5NQOi618vblnUD" version="21.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="786" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,22 +8,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Bobby assigns segment tickets in azure devops" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="50" width="160" height="50" as="geometry" />
+          <mxGeometry x="240" y="50" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="in our local system&lt;br&gt;&lt;ul&gt;&lt;li&gt;create a folder with the vso number&lt;/li&gt;&lt;li&gt;move the excel template and fill the excel with values from devops and titles to be included&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="380" width="260" height="120" as="geometry" />
+        <mxCell id="WDm5DXxTPcnoRDxQkjZs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="WDm5DXxTPcnoRDxQkjZs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="in our local system&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;create a folder with the vso number&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;open the excel template&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;fill the excel template with values from devops and titles to be included&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="190" y="340" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WDm5DXxTPcnoRDxQkjZs-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WDm5DXxTPcnoRDxQkjZs-0" target="WDm5DXxTPcnoRDxQkjZs-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WDm5DXxTPcnoRDxQkjZs-0" value="input the corresponding to&lt;br&gt;&amp;nbsp;xbox revenue excel file&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="150" width="180" height="70" as="geometry" />
+        <mxCell id="WDm5DXxTPcnoRDxQkjZs-0" value="input the corresponding value to&lt;br&gt;&amp;nbsp;xbox revenue excel file&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="227.5" y="130" width="185" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WDm5DXxTPcnoRDxQkjZs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WDm5DXxTPcnoRDxQkjZs-3" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WDm5DXxTPcnoRDxQkjZs-3" value="navigate to dsp tool with the created segment name and activate the segment" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="107.5" y="260" width="165" height="80" as="geometry" />
+          <mxGeometry x="237.5" y="230" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WDm5DXxTPcnoRDxQkjZs-6" value="input purchaseid to the scraping solution&amp;nbsp;&lt;br&gt;get the final output as csv" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="500" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
