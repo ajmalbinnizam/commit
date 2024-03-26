@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T07:29:02.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="WjAb7ZB6HYbboWB0TG4x" version="24.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-26T12:26:32.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="CDNwYHIPBfiTY-tIE8z0" version="24.1.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1167" dy="-555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,7 +193,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="msn video architecture" id="tc6fs2IRmKn7ReOm85as">
-    <mxGraphModel dx="1167" dy="-555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1667" dy="-292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="drR2tUpauRf2ysnaYcAb-0" />
         <mxCell id="drR2tUpauRf2ysnaYcAb-1" parent="drR2tUpauRf2ysnaYcAb-0" />
@@ -283,13 +283,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XNzbFKFd4DmgsGEZvjht-9" value="" style="group" parent="drR2tUpauRf2ysnaYcAb-1" vertex="1" connectable="0">
-          <mxGeometry x="561.79" y="1540.16" width="158.66999999999996" height="85.22000000000003" as="geometry" />
+          <mxGeometry x="650" y="1510" width="158.66999999999996" height="85.22000000000003" as="geometry" />
         </mxCell>
         <mxCell id="XNzbFKFd4DmgsGEZvjht-0" value="Video Outbrain | Instream" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=11;image=img/lib/azure2/databases/SQL_Database.svg;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" parent="XNzbFKFd4DmgsGEZvjht-9" vertex="1">
           <mxGeometry y="40" width="33.91" height="45.22" as="geometry" />
         </mxCell>
         <mxCell id="XNzbFKFd4DmgsGEZvjht-2" value="oneSANE| TSTB" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cube;fontSize=11;" parent="XNzbFKFd4DmgsGEZvjht-9" vertex="1">
-          <mxGeometry x="118.66999999999996" y="40.440000000000055" width="40" height="44.78" as="geometry" />
+          <mxGeometry x="109.99999999999996" y="40.440000000000055" width="40" height="44.78" as="geometry" />
         </mxCell>
         <mxCell id="XNzbFKFd4DmgsGEZvjht-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.916;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" parent="XNzbFKFd4DmgsGEZvjht-9" source="XNzbFKFd4DmgsGEZvjht-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
