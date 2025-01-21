@@ -671,7 +671,7 @@
         <mxCell id="WIKi1naMGfM_hJrwJL8N-14" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;strokeColor=light-dark(#121212, #121212);labelBackgroundColor=none;" edge="1" parent="1" source="WIKi1naMGfM_hJrwJL8N-7" target="WIKi1naMGfM_hJrwJL8N-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIKi1naMGfM_hJrwJL8N-7" value="User" style="outlineConnect=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;strokeColor=light-dark(#121212, #121212);fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#EEEEEE;rounded=1;" vertex="1" parent="1">
+        <mxCell id="WIKi1naMGfM_hJrwJL8N-7" value="User" style="outlineConnect=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;strokeColor=light-dark(#121212,#121212);fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="409.6798336798337" y="174.5" width="90.16216216216216" height="90.16216216216216" as="geometry" />
         </mxCell>
         <mxCell id="WIKi1naMGfM_hJrwJL8N-9" value="Email&amp;nbsp;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-128.png;strokeColor=light-dark(#121212, #121212);fontColor=#1A1A1A;fillColor=#EEEEEE;rounded=1;" vertex="1" parent="1">
